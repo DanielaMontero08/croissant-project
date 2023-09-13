@@ -1,0 +1,52 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter&family=Poppins&family=Raleway:wght@100&family=Roboto+Mono:wght@100&display=swap");
+
+body {
+  font-family: "Poppins", sans-serif;
+  margin: 40px;
+  background: #9e603b;
+}
+
+h1 {
+  text-align: center;
+  font-size: 40px;
+  color: rgb(63, 34, 11);
+}
+
+p {
+  text-align: center;
+  color: aliceblue;
+  background-color: #492c1a77;
+  padding: 20px;
+  border-radius: 20px;
+}
+
+img {
+  justify-content: center;
+  border-radius: 20px;
+  box-shadow: 1px 3px 26px 20px rgba(202, 127, 62, 1);
+}
+
+a {
+  color: aliceblue;
+}
+
+a:hover {
+  color: #392011;
+}
+
+.email-link {
+  color: #392011;
+}
+
+.email-link:hover {
+  color: #9c8223;
+}
+
+.container-links {
+  text-align: center;
+  padding: 10px;
+}
+
+.photo-container {
+  text-align: center;
+}
